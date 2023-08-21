@@ -7,6 +7,7 @@ import panels from "./PhotoPanels";
 import project_joy from "./audio/project_joy.mp3";
 
 const TOTAL_NUMBER_OF_IMAGES = Object.keys(imgs).length;
+console.log('app loaded');
 
 function App() {
   const [loadedImgCnt, setLoadedImgCnt] = useState(0);

@@ -100,8 +100,8 @@ function App() {
                   시그니처파티플레이스 부천점
                 </a>
               </h2>
-              <h2>헨리의 첫번째 생일에 초대합니다</h2>
-              <h4>아래 플레이 버튼(▶️)을 누르시고<br/>화면을 밑으로 스크롤해보세요</h4>
+              <h2>헨리의 생일에 초대합니다</h2>
+              <h4>아래 플레이 버튼을 누르시고<br/>화면을 밑으로 스크롤해보세요</h4>
               <audio
                 style={{ paddingTop: 20 }}
                 src={project_joy}
@@ -143,11 +143,11 @@ function App() {
                   lineHeight: "10px",
                 }}
               >
-                <h3>
+                <h4>
                   {panel.description != null
                     ? panel.description
                     : `D+${daysBetweenBirthday(panel.date)}`}
-                </h3>
+                </h4>
               </div>
               <div
                 style={{

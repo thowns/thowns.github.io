@@ -46,7 +46,7 @@ const panels = [
     image: imgs.cap,
     date: new Date("2023-02-04"),
     children: null,
-    description: "슬슬 커가는 헨뤼~ 100일에서 200일 사이엔, 모자도 쓰고 🧢",
+    description: "슬슬 커가는 헨뤼~ 모자도 쓰고 🧢",
   },
   {
     image: imgs.rock_hand,
@@ -66,7 +66,7 @@ const panels = [
     date: new Date("2023-04-06"),
     horizontalAlign: "end",
     children: null,
-    description: "여러가지 장난감을 갖고 놀며 활짝 웃기 시작했습니다 👼😆",
+    description: "활짝 웃기 시작했습니다 👼😆",
   },
   {
     image: imgs.country_road,
@@ -77,7 +77,7 @@ const panels = [
   {
     image: imgs.dol_catch,
     date: new Date("2023-09-13"),
-    description: "헨리의 첫 생일이 다가오고 있습니다 🎂🎁",
+    description: "헨리의 첫 생일이 다가왔습니다 🎂🎁",
   },
   {
     image: imgs.dol_piano,

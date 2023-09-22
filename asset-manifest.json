@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.105c5e25.css",
-    "main.js": "/static/js/main.aefd3e9c.js",
+    "main.js": "/static/js/main.7fb20a50.js",
     "static/media/main.gif": "/static/media/main.8c122281c91f94f4c688.gif",
     "static/media/project_joy.mp3": "/static/media/project_joy.e0cf984924cb5c3197c9.mp3",
     "static/media/dol_catch.jpeg": "/static/media/dol_catch.2ab82200621757aa3bcb.jpeg",
-    "static/media/dol_piano.jpeg": "/static/media/dol_piano.50f69dd06724e03eb8c8.jpeg",
     "static/media/dol_chair.jpeg": "/static/media/dol_chair.617be22e9272446617b4.jpeg",
+    "static/media/dol_piano.jpeg": "/static/media/dol_piano.372c644b7b4e35d698c7.jpeg",
     "static/media/cap.jpeg": "/static/media/cap.f7b166f244499e7b8ebf.jpeg",
     "static/media/saucer.jpeg": "/static/media/saucer.81778706b6536c8ff8ca.jpeg",
     "static/media/smile.jpeg": "/static/media/smile.54b58e3d749bad425a0e.jpeg",
@@ -24,10 +24,10 @@
     "static/media/tiger.jpeg": "/static/media/tiger.45ef5ebfe5c439c30570.jpeg",
     "index.html": "/index.html",
     "main.105c5e25.css.map": "/static/css/main.105c5e25.css.map",
-    "main.aefd3e9c.js.map": "/static/js/main.aefd3e9c.js.map"
+    "main.7fb20a50.js.map": "/static/js/main.7fb20a50.js.map"
   },
   "entrypoints": [
     "static/css/main.105c5e25.css",
-    "static/js/main.aefd3e9c.js"
+    "static/js/main.7fb20a50.js"
   ]
 }

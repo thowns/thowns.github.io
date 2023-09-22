@@ -55,7 +55,7 @@ export const MapPanel = () => {
   return (
     <FullHeightPanel backgroundColor="rgb(20, 16, 54)">
       <div style={{ flexGrow: 1, textAlign: "center" }}>
-        <h2 style={{ color: "#ffffff" }}>10월 16일 오후 1시</h2>
+        <h2 style={{ color: "#ffffff" }}>10월 7일 오후 12시</h2>
         <h2 style={{ color: "#ffffff" }}>시그니처파티플레이스 부천점</h2>
         <h4
           style={{
@@ -82,7 +82,7 @@ export const MapPanel = () => {
           ref={mapRef}
           style={{
             borderRadius: 12,
-            width: "80%",
+            width: "350px",
             height: 250,
             margin: "auto",
           }}

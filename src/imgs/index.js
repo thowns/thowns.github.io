@@ -13,6 +13,9 @@ import rock_hand from "./rock_hand.jpeg";
 import saucer from "./saucer.jpeg";
 import sheep from "./sheep.jpeg";
 import smile from "./smile.jpeg";
+import dol_piano from "./dol_piano.jpeg";
+import dol_chair from "./dol_chair.jpeg";
+import dol_catch from "./dol_catch.jpeg";
 
 import gif_main from "./main.gif";
 
@@ -33,4 +36,7 @@ export {
   sheep,
   smile,
   gif_main,
+  dol_catch,
+  dol_piano,
+  dol_chair,
 };
